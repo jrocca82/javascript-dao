@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "esModuleInterop": true,
+    "noImplicitAny": false,
+    "strictNullChecks": false,
+    "allowJs": true,
+    "noUnusedParameters": false,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "strict": true,
+    "jsx": "react-jsx",
+    "types": [
+      "node",
+      "mocha"
+    ]
+  },
+  "include": ["./scripts", "./build", "./tests", "./src", "./public"],
+  "files": ["./hardhat.config.ts"]
+}
