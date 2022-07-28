@@ -46,7 +46,6 @@
     "typechain": "^6.1.0",
     "typescript": "^4.3.4"
   },
-  "type": "module",
   "resolutions": {
     "@ledgerhq/hw-app-eth": "6.7.0",
     "@ledgerhq/hw-transport": "6.7.0",
